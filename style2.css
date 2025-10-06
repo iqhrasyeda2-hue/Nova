@@ -1,0 +1,33 @@
+.header-image{
+    width: 100%;
+    height: auto;
+    align-items: center;
+}
+.form-section{
+    padding: 30px 40px;
+}
+
+.form-group{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.form-label{
+    width: 35%;
+    font-weight:bold;
+    color: black;
+}
+
+.form-input-container{
+    width: 65%;
+}
+
+.form-input{
+    width: 100%;
+    padding: 10px;
+    border: 1px;
+    box-sizing: border-box;
+    font-size: 1em;
+}
+
